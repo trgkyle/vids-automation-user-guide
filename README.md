@@ -1,3 +1,5 @@
+[![Download Here](https://img.shields.io/badge/⬇_Download-Here-success?style=for-the-badge)](https://chromewebstore.google.com/detail/vids-automation-auto-veo/caiompjhmpmodfbfdbihlkbbeijgpial)
+
 # 🚀 Vids Automation v1.0.0 - Google Vids AI Automation [![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-green)](README_vi.md) [![中文](https://img.shields.io/badge/中文-red)](README_zh.md)
 
 **Vids Automation** is a productivity extension that automates your creative workflow on Google Vids (docs.google.com/videos). Stop manually entering prompts one by one—automate the process and generate videos, images, and voice-overs at scale.
@@ -24,7 +26,11 @@
 
 ## 📥 Installation
 
-### Method 1: Local Developer Mode
+### Method 1: Chrome Web Store (Recommended)
+1. Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/vids-automation-auto-veo/caiompjhmpmodfbfdbihlkbbeijgpial)
+2. Click **Add to Chrome**.
+
+### Method 2: Local Developer Mode
 1. Download or clone this repository to your local machine.
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Toggle the **Developer mode** switch in the top-right corner.

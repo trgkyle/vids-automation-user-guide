@@ -1,3 +1,5 @@
+[![Tải tại đây](https://img.shields.io/badge/⬇_Tải-Tại_Đây-success?style=for-the-badge)](https://chromewebstore.google.com/detail/vids-automation-auto-veo/caiompjhmpmodfbfdbihlkbbeijgpial)
+
 # 🚀 Vids Automation v1.0.0 - Tự động hóa Google Vids AI [![English](https://img.shields.io/badge/English-blue)](README.md) [![中文](https://img.shields.io/badge/中文-red)](README_zh.md)
 
 **Vids Automation** là tiện ích mở rộng giúp tự động hóa quy trình sáng tạo của bạn trên Google Vids (docs.google.com/videos). Dừng việc nhập từng prompt thủ công—tự động hóa quy trình và tạo video, hình ảnh và giọng nói (voice-over) ở quy mô lớn.
@@ -24,7 +26,11 @@
 
 ## 📥 Cài đặt
 
-### Phương pháp: Chế độ nhà phát triển cục bộ
+### Cách 1: Cửa hàng Chrome trực tuyến (Khuyên dùng)
+1. Truy cập [Cửa hàng Chrome trực tuyến](https://chromewebstore.google.com/detail/vids-automation-auto-veo/caiompjhmpmodfbfdbihlkbbeijgpial)
+2. Nhấn **Thêm vào Chrome**.
+
+### Cách 2: Chế độ nhà phát triển cục bộ
 1. Tải xuống hoặc clone repository này về máy tính của bạn.
 2. Mở Google Chrome và truy cập `chrome://extensions/`.
 3. Bật công tắc **Chế độ dành cho nhà phát triển** ở góc trên cùng bên phải.

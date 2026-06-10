@@ -1,3 +1,5 @@
+[![点击这里下载](https://img.shields.io/badge/⬇_下载-点击这里-success?style=for-the-badge)](https://chromewebstore.google.com/detail/vids-automation-auto-veo/caiompjhmpmodfbfdbihlkbbeijgpial)
+
 # 🚀 Vids Automation v1.0.0 - Google Vids AI 自动化 [![English](https://img.shields.io/badge/English-blue)](README.md) [![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-green)](README_vi.md)
 
 **Vids Automation** 是一款生产力扩展程序，可在 Google Vids (docs.google.com/videos) 上自动化您的创意工作流程。告别手动逐个输入提示词——实现流程自动化，大规模生成视频、图片和配音（voice-over）。
@@ -24,7 +26,11 @@
 
 ## 📥 安装
 
-### 方法：本地开发者模式
+### 方法 1：Chrome 网上应用店（推荐）
+1. 访问 [Chrome 网上应用店](https://chromewebstore.google.com/detail/vids-automation-auto-veo/caiompjhmpmodfbfdbihlkbbeijgpial)
+2. 点击 **添加至 Chrome**。
+
+### 方法 2：本地开发者模式
 1. 下载或克隆此仓库到您的本地计算机。
 2. 打开 Google Chrome 浏览器并导航到 `chrome://extensions/`。
 3. 开启右上角的 **开发者模式** 开关。
